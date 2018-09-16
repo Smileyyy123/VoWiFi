@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">VoWiFi</string>
+    <string name="contactAddress">Adres SIP do kontaktu</string>
+    <string name="makeCall">Połącz</string>
+    <string name="callSomeone">Zadzwoń</string>
 </resources>
